@@ -1,0 +1,61 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+*.out
+
+# IDE specific files
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# Build directories
+build/
+target/
+
+# Maven specific
+.mvn/
+!**/src/main/**/mvnw*
+
+# Gradle specific
+.gradle/
+build/
+
+# Dependency directories
+lib/
+libs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Coverage reports
+coverage/
+*.lcov
+*.nyc_output
+
+# Generated files
+*.generated
+*.bak
+*.rej
+*.orig
+
+# Java-specific files
+hs_err_pid*
+replay_pid*
